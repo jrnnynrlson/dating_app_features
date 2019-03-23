@@ -3,23 +3,26 @@ presented at [Internet Exlorers](https://https://www.caveat.nyc/event/internet-e
 <br />
 
 # installation at prime produce:
-![installation](images/JSODAF_tw_001.gif)
+![installation](JSODAF_tw_001.gif)
 <br />
-![installation](images/JSODAF_tw_002.gif)
+![installation](JSODAF_tw_002.gif)
 <br />
-![installation](images/JSODAF_tw_003.gif)
+![installation](JSODAF_tw_003.gif)
 <br />
-![installation](images/JSODAF_tw_004.gif)
+![installation](JSODAF_tw_004.gif)
 <br />
-![installation](images/JSODAF_tw_005.gif)
+![installation](JSODAF_tw_005.gif)
 <br />
-![installation](images/JSODAF_tw_006.gif)
+![installation](JSODAF_tw_006.gif)
 <br />
-![installation](images/JSODAF_tw_007.gif)
+![installation](JSODAF_tw_007.gif)
 <br />
-![installation](images/JSODAF_tw_008.gif)
+![installation](JSODAF_tw_008.gif)
 <br />
-![installation](images/JSODAF_tw_009.gif)
+![installation](JSODAF_tw_009.gif)
 <br />
-![installation](images/JSODAF_tw_010.gif)
+![installation](JSODAF_tw_010.gif)
 <br />
+
+
+
