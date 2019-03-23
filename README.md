@@ -1,7 +1,7 @@
 # jenny's suite of dating app features designed by patrick
 presented at [Internet Exlorers](https://https://www.caveat.nyc/event/internet-explorers-2-20-2019), nyc, february 2019 with designer & animator [Patrick Hosmer](https://patrickhosmer.com)
 <br />
-
+---
 ###### my name is jenny and i work in tech...on the creative side! together w/ design lead patrick hosmer, i’ve mocked up a full suite of dating app features that i hope you like. 
 ![installation](JSODAF_tw_001.gif)
 <br />
